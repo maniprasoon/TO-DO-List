@@ -51,12 +51,5 @@ to-do-list/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for full license details.
-
----
-
 > Designed to boost your productivity, one task at a time.
 
