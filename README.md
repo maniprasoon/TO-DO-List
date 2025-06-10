@@ -33,10 +33,11 @@ A sleek and responsive web-based To-Do List app built with **HTML**, **CSS**, an
 
 ## 📁 File Structure
 
+```bash
 to-do-list/
-├── index.html      # Core HTML layout
-├── style.css       # Visual styling and animations
-└── script.js       # JavaScript for interactivity and logic
+├── index.html     # Core HTML layout
+├── style.css      # Visual styling and animations
+└── script.js      # JavaScript for interactivity and logic
 
 
 ---
