@@ -21,25 +21,41 @@ A sleek and responsive web-based To-Do List app built with **HTML**, **CSS**, an
 
 ---
 
-##💡 Usage
+## 💡 Usage
 
 - Enter your task in the input field.
-- Click Add or press Enter to insert it into the list.
+- Click **Add** or press **Enter** to insert it into the list.
 - Click the checkbox to mark it as completed (with a strikethrough).
-- Use Edit to modify the task or Delete to remove it.
+- Use **Edit** to modify the task or **Delete** to remove it.
 - Track your progress using the real-time counters for completed and uncompleted tasks.
 
-##📁 File Structure
+---
+
+## 📁 File Structure
 
 to-do-list/
 ├── index.html      # Core HTML layout
 ├── style.css       # Visual styling and animations
 └── script.js       # JavaScript for interactivity and logic
 
-##🔮 Future Enhancements
+
+---
+
+## 🔮 Future Enhancements
 
 - Task prioritization (high, medium, low)
 - Task categorization (work, personal, etc.)
 - Local storage to retain tasks across sessions
 - Reminders or due date alerts
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for full license details.
+
+---
+
+> Designed to boost your productivity, one task at a time.
 
